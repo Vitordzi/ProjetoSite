@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+header > #menu > ol > li { 
+
+    list-style-type: none;
+    margin: 10px 10px 10px 10px;
+    
+
+}
+
+#menu > ol > li {
+
+    display: flex;
+    flex-direction: row;
+
+
+}
